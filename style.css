@@ -1,0 +1,77 @@
+
+.main{
+    background-color: black;
+    height: 800px;
+    width:800px;
+    margin: auto;
+    
+}
+
+.large{
+    background-color: red;
+    height: 200px;
+    width:760px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    float: left;
+}
+
+.one{
+    background-color: red;
+    height: 300px;
+    width: 240px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top:20px;
+    
+    float: left;
+}
+
+.two{
+    background-color: red;
+    height: 300px;
+    width: 240px;
+    margin-right: 20px;
+   
+   margin-top:20px;
+    float: left;
+}
+
+.three{
+    background-color: red;
+    height: 300px;
+    width: 240px;
+    margin-right: 20px;
+   
+    margin-top:20px;
+    float: left;
+}
+
+.four{
+    background-color: red;
+    height: 220px;
+    width: 370px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top:20px;
+    float: left;
+}
+.five{
+    background-color: red;
+    height: 220px;
+    width: 370px;
+    margin-right: 20px;
+  
+    margin-top:20px;
+    float: left;
+}
+
+@media screen and (max-width:800px)
+{
+    .one
+    {
+       width:240px;
+        background-color:orange;
+    }
+}
